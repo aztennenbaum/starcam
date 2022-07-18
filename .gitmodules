@@ -1,0 +1,12 @@
+[submodule "BerryIMU"]
+	path = BerryIMU
+	url = https://github.com/ozzmaker/BerryIMU.git
+[submodule "lewansoul-lx16a"]
+	path = lewansoul-lx16a
+	url = https://github.com/maximkulkin/lewansoul-lx16a
+[submodule "Adafruit_CircuitPython_HTU21D"]
+	path = Adafruit_CircuitPython_HTU21D
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HTU21D
+[submodule "kalibr"]
+	path = kalibr
+	url = https://github.com/ethz-asl/kalibr
